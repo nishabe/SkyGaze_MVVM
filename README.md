@@ -1,1 +1,1 @@
-# StarGaze_MVC
+# StarGaze_MVVM
