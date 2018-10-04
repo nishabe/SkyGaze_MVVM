@@ -1,1 +1,1 @@
-# StarGaze_MVVM
+# SkyGaze_MVVM
